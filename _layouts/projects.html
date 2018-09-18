@@ -21,25 +21,10 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p><a href="./pages/aboutme.html">About Me</a></p>
-        <p><a href="./pages/cv.html">Curriculum Vitae</a>  <a href="../assets/documents/mycv.pdf"><i class="material-icons" >cloud_download</i></a></p>
-        <p><a href="./pages/projects.html">Projects</a></p>        
-        -->
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% for pages in site.pages%}
-            {% if pages.title == "Curriculum Vitae" %}
-                {% for file in site.static_files%}
-                    {% if file.name == "mycv.pdf" %}
-                        <p><a href="{{pages.url}}">{{pages.title}}</a> <a href="{{file.path}}"><i class="material-icons" >cloud_download</i></a></p>           
-                    {% endif %}
-                {% endfor %}            
-            {% else %}
-            <p><a href="{{pages.url}}">{{pages.title}}</a></p>
-            {% endif %}
-        {% endfor %}
-
+        <p><a href="./aboutme.html">About Me</a></p>
+        <p><a href="./cv.html">Curriculum Vitae</a>  <a href="../assets/documents/mycv.pdf"><i class="material-icons" >cloud_download</i></a></p>
+        <p><a href="./projects.html">Projects</a></p>        
         
 
         {% if site.github.is_project_page %}
@@ -61,6 +46,12 @@
       <section>
 
       {{ content }}
+      
+		{% for post in site.posts %}
+
+		<li><a href="{{post.url}}">  {{post.title}}  </a></li>
+
+		{% endfor%}
 
       </section>
       <!--

@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: pages
+title: Curriculum Vitae
 ---
 
 Education
