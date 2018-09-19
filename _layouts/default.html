@@ -28,6 +28,10 @@
         <p><a href="./pages/projects.html">Projects</a></p>        
         -->
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+
+        <hr style="height:5px"> 
+
         {% for pages in site.pages%}
             {% if pages.title == "Curriculum Vitae" %}
                 {% for file in site.static_files%}
