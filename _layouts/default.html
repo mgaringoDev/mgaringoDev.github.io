@@ -46,6 +46,18 @@
         <div style="width: 100%;">
           <p align="center"; style="margin:0px">
             <font size="2.1em">              
+              {% for file in site.static_files%}
+                    {% if file.name == "mycv.pdf" %}
+                        <a href="{{file.path}}"><i class="material-icons" >cloud_download</i></a>
+                    {% endif %}
+                {% endfor %}            
+            </font>
+          </p>
+        </div>
+
+        <div style="width: 100%;">
+          <p align="center"; style="margin:0px">
+            <font size="2.1em">              
               {% for pages in site.pages%}
                 {% if pages.category == "SidePanel" %}
                   <a href="{{pages.url}}">{{pages.title}}</a>
@@ -57,18 +69,7 @@
             </font>
           </p>
         </div>
-
-        <div style="width: 100%;">
-          <p align="center"; style="margin:0px">
-            <font size="2.1em">              
-              {% for file in site.static_files%}
-                    {% if file.name == "mycv.pdf" %}
-                        <a href="{{file.path}}"><i class="material-icons" >cloud_download</i></a>
-                    {% endif %}
-                {% endfor %}            
-            </font>
-          </p>
-        </div>
+        
         
         <!-- ************************ Github stuff ************************-->
         <!-- I think for now we can remove this -->
