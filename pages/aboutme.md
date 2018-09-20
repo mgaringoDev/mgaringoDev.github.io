@@ -5,6 +5,7 @@ category: SidePanel
 ---
 
 # About Me
+<hr>
 
 ## Objective
 <p align="justify">
