@@ -159,6 +159,4 @@ Languages
 **Fluent:** English
 
 
-Native Speaker
-:   **Tagalog** 
-:   **Illocano** 
+**Native Speaker:** Tagalog and Illocana
