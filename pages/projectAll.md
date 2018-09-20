@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Projects
-category: SidePanel
+title: All
+category: projectSummarypage
 ---
-# List of All Projects
+
+# List of {{page.title}} Projects
 
 <div style="width: 100%;">
   <p align="center" >
     <font size="2.1em">              
-    	&#9670;
+      &#9670;
       {% for pages in site.pages%}
         {% if pages.category == "projectSummarypage" %}
           <a href="{{pages.url}}" style="padding: 5px;">{{pages.title}}</a>          
@@ -45,16 +46,3 @@ category: SidePanel
 - [{{post.title}}]({{post.url}})
 {% endif %}
 {% endfor %}
-
-
-
-<!-- THIS IS WORKING
-
-{% for post in site.posts %}
-
-<li><a href="{{post.url}}">  {{post.title}}  </a></li>
-
-{% endfor %}
--->
-		
-

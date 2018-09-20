@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Projects
-category: SidePanel
+title: Research
+category: projectSummarypage
 ---
-# List of All Projects
+
+# List of {{page.title}}  Projects
 
 <div style="width: 100%;">
   <p align="center" >
@@ -27,34 +28,4 @@ category: SidePanel
 - [{{post.title}}]({{post.url}})
 {% endif %}
 {% endfor %}
-
-<br>
-
-## Business
-{% for post in site.posts %}
-{% if post.tags contains 'Business' %}
-- [{{post.title}}]({{post.url}})
-{% endif %}
-{% endfor %}
-
-<br>
-
-## Software Development
-{% for post in site.posts %}
-{% if post.tags contains 'SoftwareDevelopment' %}
-- [{{post.title}}]({{post.url}})
-{% endif %}
-{% endfor %}
-
-
-
-<!-- THIS IS WORKING
-
-{% for post in site.posts %}
-
-<li><a href="{{post.url}}">  {{post.title}}  </a></li>
-
-{% endfor %}
--->
-		
 
