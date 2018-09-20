@@ -1,6 +1,7 @@
 ---
-layout: pages
+layout: default
 title: Curriculum Vitae
+category: SidePanel
 ---
 
 Education

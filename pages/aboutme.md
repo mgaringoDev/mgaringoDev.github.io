@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+category: SidePanel
 ---
 
 # About Me

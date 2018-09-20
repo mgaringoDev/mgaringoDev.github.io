@@ -1,6 +1,7 @@
 ---
-layout: projects
+layout: default
 title: Projects
+category: SidePanel
 ---
 # List of Projects
 
