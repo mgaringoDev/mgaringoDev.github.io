@@ -22,18 +22,32 @@ category: SidePanel
 <hr>
 
 ## Research
+
 {% for post in site.posts %}
 {% if post.tags contains 'Research' %}
-- [{{post.title}}]({{post.url}})
+<ul style="margin:0.5em;">
+  <li>
+    <a href='{{post.url}}'>
+      {{post.title}}
+    </a>
+  </li>
+</ul>
 {% endif %}
 {% endfor %}
+
 
 <br>
 
 ## Business
 {% for post in site.posts %}
 {% if post.tags contains 'Business' %}
-- [{{post.title}}]({{post.url}})
+<ul style="margin:0.5em;">
+  <li>
+    <a href='{{post.url}}'>
+      {{post.title}}
+    </a>
+  </li>
+</ul>
 {% endif %}
 {% endfor %}
 
@@ -42,7 +56,13 @@ category: SidePanel
 ## Software Development
 {% for post in site.posts %}
 {% if post.tags contains 'SoftwareDevelopment' %}
-- [{{post.title}}]({{post.url}})
+<ul style="margin:0.5em;">
+  <li>
+    <a href='{{post.url}}'>
+      {{post.title}}
+    </a>
+  </li>
+</ul>
 {% endif %}
 {% endfor %}
 

@@ -25,7 +25,13 @@ category: projectSummarypage
 ## Research
 {% for post in site.posts %}
 {% if post.tags contains 'Research' %}
-- [{{post.title}}]({{post.url}})
+<ul style="margin:0.5em;">
+  <li>
+    <a href='{{post.url}}'>
+      {{post.title}}
+    </a>
+  </li>
+</ul>
 {% endif %}
 {% endfor %}
 
