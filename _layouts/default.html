@@ -63,11 +63,31 @@
           <p align="center"; style="margin:0px">
             <font size="2em">              
               {% for pages in site.pages%}
-                {% if pages.category == "SidePanel" %}
-                  <a href="{{pages.url}}">{{pages.title}}</a>
-                  {% if pages.title != "Projects" %}                  
-                    &#9670;
+                {% if pages.title != "Publications" %}                  
+                  {% if pages.title != "Affiliations" %}  
+                    {% if pages.category == "SidePanel" %}
+                      <a href="{{pages.url}}">{{pages.title}}</a>
+                      {% if pages.title != "Projects" %}                  
+                        &#9670;
+                      {% endif %}
+                    {% endif %}                                
                   {% endif %}
+                {% endif %}                
+              {% endfor %}                
+            </font>
+          </p>
+        </div>
+
+        <div style="width: 100%;">
+          <p align="center"; style="margin:0px">
+            <font size="2em">              
+              {% for pages in site.pages%}
+                {% if pages.title == "Affiliations" %}                      
+                  <a href="{{pages.url}}">{{pages.title}}</a>                    
+                  &#9670;
+                {% endif %}
+                {% if pages.title == "Publications" %}                  
+                  <a href="{{pages.url}}">{{pages.title}}</a>                                      
                 {% endif %}                
               {% endfor %}                
             </font>
