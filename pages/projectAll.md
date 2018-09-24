@@ -8,7 +8,7 @@ category: projectSummarypage
 
 <div style="width: 100%;">
   <p align="center" >
-    <font size="2.1em">              
+    <font size="2em">              
       &#9670;
       {% for pages in site.pages%}
         {% if pages.category == "projectSummarypage" %}
