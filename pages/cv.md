@@ -11,7 +11,7 @@ Education
 :   **MASTER OF SCIENCE IN ELECTRICAL ENGINEERING** 
 :   **_Ryerson University, Toronto, Ontario_**
 
-    *Thesis title: *
+    **Thesis title:**
      During my study I specialized in signal processing specifically the audio and biomedical applications.
 
 

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.12)  15 MAY 2018 16:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.12)  11 APR 2019 12:35
 entering extended mode
 **cv_7.tex
 
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\cv_7.tex
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\cv_7.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -16,8 +16,8 @@ ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\moderncv.cls
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\moderncv.cls
 Document Class: moderncv 2012/10/31 v1.2.0 modern curriculum vitae and letter d
 ocument class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
@@ -192,8 +192,8 @@ Package microtype Info: Loading configuration file microtype.cfg.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\moderncvcompatibility.sty
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\moderncvcompatibility.sty
 Package: moderncvcompatibility 2012/10/31 v1.2.0 modern curriculum vitae and le
 tter compatibility patches
 )
@@ -202,10 +202,10 @@ Package: suffix 2006/07/15 1.5a Variant command support
 )
 \bibindent=\skip54
 
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\tweaklist.sty))
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\moderncvstyleclassic.sty
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\tweaklist.sty))
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2012/10/31 v1.2.0 modern curriculum vitae and let
 ter style scheme: classic
 \quotewidth=\skip55
@@ -225,8 +225,8 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 78.
 \cvitemwithcommentmainlength=\skip65
 \cvitemwithcommentcommentlength=\skip66
 )
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\moderncvcolorblue.sty
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\moderncvcolorblue.sty
 Package: moderncvcolorblue 2012/10/31 v1.2.0 modern curriculum vitae and letter
  color scheme: blue
 )
@@ -666,8 +666,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `breaklinks' set `true' on input line 55.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 55.
 
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\cv_7.aux)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\cv_7.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
@@ -685,7 +685,8 @@ LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 55.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -774,17 +775,18 @@ LaTeX Info: Redefining \ref on input line 55.
 LaTeX Info: Redefining \pageref on input line 55.
 LaTeX Info: Redefining \nameref on input line 55.
 
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\cv_7.out)
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\cv_7.out)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\cv_7.out)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\cv_7.out)
 \@outlinefile=\write3
 \pagenumberwidth=\skip74
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 55.
 \makecvtitledetailsbox=\box45
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 57.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 57.
@@ -816,7 +818,7 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvtitlepicturebox=\box46
 
-<pictures/myQR.png, id=46, 3011.25pt x 3011.25pt>
+<pictures/myQR.png, id=50, 3011.25pt x 3011.25pt>
 File: pictures/myQR.png Graphic file (type png)
  <use pictures/myQR.png>
 Package pdftex.def Info: pictures/myQR.png used on input line 57.
@@ -829,8 +831,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
  []
 
 
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\currentEmployment.tex
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\currentEmployment.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -861,8 +863,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--7
  []
 
 )
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\previousEmployment.tex
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\previousEmployment.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
 
  []
@@ -880,48 +882,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--7
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Cerebral/_MarioSandBox
-/Website/mgaringoDev.github.io/assets/documents/resume/pictures/myQR.png>]
+/Website/newMgaringoDevGithub/mgaringoDev.github.io/assets/documents/resume/pic
+tures/myQR.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
 
 )
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\education.tex)
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\masters.tex
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\education.tex)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\masters.tex
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 3.
 )
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\certifications.tex)
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\awards.tex)
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\skills.tex [2])
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\interests.tex)
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\languages.tex)
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\content\references.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\certifications.tex)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\awards.tex)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\skills.tex [2])
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\publication.tex)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\interests.tex)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\languages.tex)
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\content\references.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
 
-(C:\Cerebral\_MarioSandBox\Website\mgaringoDev.github.io\assets\documents\resum
-e\cv_7.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+(C:\Cerebral\_MarioSandBox\Website\newMgaringoDevGithub\mgaringoDev.github.io\a
+ssets\documents\resume\cv_7.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `cv_7.out' has not changed.
-(rerunfilecheck)             Checksum: 7EE7F800023C63F562FCB6419EC332F7;1314.
+(rerunfilecheck)             Checksum: 58B813AAE10DA25750566ECC72522C0F;1420.
  ) 
 Here is how much of TeX's memory you used:
- 19409 strings out of 493921
- 329706 string characters out of 3147291
+ 19418 strings out of 493921
+ 330919 string characters out of 3147291
  415624 words of memory out of 3000000
- 22423 multiletter control sequences out of 15000+200000
- 71317 words of font info for 87 fonts, out of 3000000 for 9000
+ 22424 multiletter control sequences out of 15000+200000
+ 71519 words of font info for 89 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  43i,12n,67p,10409b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
@@ -932,9 +937,9 @@ gram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/lm/lmsso17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/marvos
 ym/marvosym.pfb>
-Output written on cv_7.pdf (3 pages, 252712 bytes).
+Output written on cv_7.pdf (3 pages, 256664 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 21590 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 21598 words of extra memory for PDF output out of 24883 (max. 10000000)
 
