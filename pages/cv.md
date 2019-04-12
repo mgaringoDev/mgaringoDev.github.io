@@ -39,11 +39,11 @@ Current Employment
 :   **_Headache Sciences Inc._**
     <p align="justify">
     Develop the patent pending main algorithm of the company, to detect predisposition of migraine using
-    machine learning and advanced signal processing techniques. Develop technical drawings and memos
-    to communicate algorithm to a wide variety of academic and non-academic audience. Perform clinical
-    data acquisition of patients for various pilot studies. Manage a team to identify medical regulation
-    requirements, market research and venues of commercialization of the product. Create proposals for
-    various grants and ethic boards which were successfully accepted.
+    machine learning and advanced signal processing techniques. Develop technical drawings and memos to
+    communicate algorithm to a wide variety of academic and non-academic audience. Perform clinical data
+    acquisition of patients for various pilot studies. Manage a team to identify medical regulation requirments,
+    market research and venues of commercialization of the product. Create proposals for various grants and
+    ethic boards which were successfully accepted.
     </p>
 
 
@@ -51,12 +51,11 @@ Current Employment
 :   **Data Scientist** 
 :   **_Dementia Health_**
     <p align="justify">
-    Develop analytical tools to identify abnormalities in the EEG of Alzheimerś subjects to autonomously
-    differentiate them from a normative group. Develop novel signal processing techniques to perform feature
-    analysis, reduction and fusion. Modify and identify appropriate existing machine learning techniques to
-    perform autonomous classification using Neural Network and K-means Clustering. Perform clinical data
-    acquisition of patients for various pilot studies. Create proposals for various grants and ethic boards which
-    were successfully accepted.
+    Develop analytical tools to identify abnormalities in the EEG of Alzheimer's subjects to autonomously
+    differenitate them from a normative group. Develop novel signal processing techniques to perform feature
+    analysis, reduction and fusion. Modify and identify approriate existing machine learning techniques to
+    perform pattern classifcation. Perform clinical data acquisition of patients for various pilot studies. Create
+    proposals for various grants and ethic boards which were successfully accepted.
     </p>
 
 2012-Present 
@@ -65,12 +64,12 @@ Current Employment
     <p align="justify">
     Develop various novel analytical tools to characterize and classify a variety of neurological processes.
     Created novel K-complex, alpha and delta analysis for sleep medicine using EEG source localization. Lead
-    a group of mathematicians at the Fields Institute to develop a novel brain synchronization technique to
+    a group of mathematicians at the Fields Institute to develop a novel brain synchonization technique to
     identify brain region connectivity. Established a new protocol for VEP and LEP analysis for pain using
     EEG and source localization. Enhancing proficiency and performance of existing proprietary programs
     by optimizing code and merging programs. Programing proprietary robotic arm to test and measure
-    thresholds of pain as it relates to diabetic neuropathology and carpal tunnel syndrome. Developing a new
-    cap system for easy recording of EEG signals. Developed brain sonifcaiton techniques. Developed pipeline,
+    thresholds of pain as it relates to diabetic neuropathy and carpal tunnel syndrome. Developing a new cap
+    system for easy recording of EEG signals. Developed brain sonification techniques. Develop pipeline,
     analysis and program to transform existing brain imaging techniques into holographic print ready images.</p>
     
 
@@ -147,14 +146,14 @@ Others
 ***
 
 
-Interests and Extra-Curricular Activities
+Interests 
 ============
 
-* <p align="justify">I frequently participate in machine learning algorithm competitions in oder reinforce my existing
-knowledge in the area of data analysis and classification while also learning new algorithms and
-ways to make them more efficient.</p>
+* <p align="justify">I frequently participate in machine learning algorithm competitions in oder to reinforce my
+existing knowledge in the area of data analysis and pattern classification, while also learning new
+algorithms and ways to make them more efficient.</p>
 
-* I am also an avid runner, competing in various road and trail races in the Toronto
+* I am also an avid runner, competing in various road and trail races in Toronto.
 
 ***
 
@@ -164,4 +163,4 @@ Languages
 **Fluent:** English
 
 
-**Native Speaker:** Tagalog and Illocana
+**Native Speaker:** Tagalog and Ilocano
