@@ -20,6 +20,7 @@ category: SidePanel
 </div>
 
 <hr>
+To view detailed work on some projects please visit <a href="http://youeeg.net/mgProjectPages/">here</a>. Please request for a password and username for full access to some of the projects listed.
 
 ## Research
 
