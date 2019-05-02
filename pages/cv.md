@@ -19,7 +19,8 @@ Education
 :   **BACHELOR OF SCIENCE, ELECTRICAL ENGINEERING** 
 :   **_Ryerson University, Toronto, Ontario_**
 
-    *GPA 3.28/4.00*
+    **Capstone Project:**
+    Virtual reality motion tracking system with haptic feedback for use in geriatric fall detection systems.
 
 2003-2007
 :   **SECONDARY SCHOOL CERTIFICATE** 
@@ -33,6 +34,17 @@ Experience
 
 Current Employment
 ----------
+2018-Present 
+:   **Graduate Research Assistant** 
+:   **_OCAD University PHASE Lab_**
+    <p align="justify">
+    Develop algorithms to perform automatic and semi-automatic segmentation from various medical imaging technologies, 
+    using marching cube, histogram manipulation, seed based approaches, morphological filters and U-Net deep learning 
+    architecture.  Develop and implement a pipeline to generate image ready frame stacks for medical holography from 
+    segmented MRI data of rat, monkey, and human brain.  As well as worked with UHN to develop segementation of OCT 
+    vascular data for 3D medical 
+    holographic visualization.
+    </p>
 
 2016-Present 
 :   **Chief Technology Officer** 
@@ -46,17 +58,6 @@ Current Employment
     ethic boards which were successfully accepted.
     </p>
 
-
-2015-Present 
-:   **Data Scientist** 
-:   **_Dementia Health_**
-    <p align="justify">
-    Develop analytical tools to identify abnormalities in the EEG of Alzheimer's subjects to autonomously
-    differenitate them from a normative group. Develop novel signal processing techniques to perform feature
-    analysis, reduction and fusion. Modify and identify approriate existing machine learning techniques to
-    perform pattern classifcation. Perform clinical data acquisition of patients for various pilot studies. Create
-    proposals for various grants and ethic boards which were successfully accepted.
-    </p>
 
 2012-Present 
 :   **Lead Developer and Biomedical Research Engineer** 
@@ -75,6 +76,16 @@ Current Employment
 
 Past Employment  
 ----------
+2015-2019 
+:   **Data Scientist** 
+:   **_Dementia Health_**
+    <p align="justify">
+    Develop analytical tools to identify abnormalities in the EEG of Alzheimer's subjects to autonomously
+    differenitate them from a normative group. Develop novel signal processing techniques to perform feature
+    analysis, reduction and fusion. Modify and identify approriate existing machine learning techniques to
+    perform pattern classifcation. Perform clinical data acquisition of patients for various pilot studies. Create
+    proposals for various grants and ethic boards which were successfully accepted.
+    </p>
 
 2015-2016
 :   **Programmer** 
