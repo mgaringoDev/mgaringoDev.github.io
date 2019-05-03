@@ -41,7 +41,7 @@ Current Employment
     Develop algorithms to perform automatic and semi-automatic segmentation from various medical imaging technologies, 
     using marching cube, histogram manipulation, seed based approaches, morphological filters and U-Net deep learning 
     architecture.  Develop and implement a pipeline to generate image ready frame stacks for medical holography from 
-    segmented MRI data of rat, monkey, and human brain.  As well as worked with UHN to develop segementation of OCT 
+    segmented MRI data of rat, monkey, and human brain.  As well as worked with UHN to develop segmentation of OCT 
     vascular data for 3D medical 
     holographic visualization.
     </p>
