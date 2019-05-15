@@ -10,9 +10,14 @@ category: SidePanel
 - [Audio Display And Environmental Sound Analysis Of Diagnostic And Therapeutic Respiratory Sounds](https://digital.library.ryerson.ca/islandora/object/RULA:3331)
 
 ## Conference 
-- ["Discriminative Analysis of Migraine with Aura using Non-Linear SVM Classification."](https://headachesciences.com/documents/Poster.pdf) _Garingo, Mario, Farhang Sahba, and Mark Doidge. [CEPHALALGIA. Vol. 37.](https://journals.sagepub.com/doi/full/10.1177/0333102417719590) , ENGLAND: SAGE PUBLICATIONS LTD, 2017._
+- **"Discriminative Analysis of Migraine with Aura using Non-Linear SVM Classification."** _Garingo, Mario, Farhang Sahba, and Mark Doidge. CEPHALALGIA. Vol. 37., ENGLAND: SAGE PUBLICATIONS LTD, 2017._
+<br>[[PDF]](https://headachesciences.com/documents/Poster.pdf)
 
-- ["A Non-Linear Support Vector Machine Approach to Testing for Migraine With Aura Using Electroencephalography"](https://ieeexplore.ieee.org/document/8561063) _Garingo, Mario, Farhang Sahba, and Mark Doidge. [Computational Science and Computational Intelligence (CSCI)](https://americancse.org/events/csci2017), 2017 International Conference on. IEEE, 2017._
+- **"A Non-Linear Support Vector Machine Approach to Testing for Migraine With Aura Using Electroencephalography"** _Garingo, Mario, Farhang Sahba, and Mark Doidge. Computational Science and Computational Intelligence, 2017 International Conference on. IEEE, 2017._
+<br>[[PDF]](https://ieeexplore.ieee.org/document/8561063)
+
+- **"The Novel Application of eLORETA for analysis of Delta Sleep in Humans: Implications for Research."** _Tatyana Mollayeva, Garingo, Mario, Mark Doidge, and Colin M Shapiro. 10th Annual Congress of The Society for Brain Mapping and Therapeutics, 2012._
+<br>[[PDF]](https://www.researchgate.net/publication/236878401_The_Novel_Application_of_eLORETA_for_analysis_of_Delta_Sleep_in_Humans_Implications_for_Research)
 
 ## Patent
 - [Diagnosis of Migraine Via Expert System](https://patents.google.com/patent/US20180242919A1/en) <br>
