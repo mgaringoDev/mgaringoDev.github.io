@@ -3,3 +3,6 @@ logo: /assets/img/myphoto_cropped.jpg
 description: I use my knowledge in signal processing and machine learning techniques to solve various problems spanning from biological to audio and image applications
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Google Services
+google_analytics: UA-140211775-1
