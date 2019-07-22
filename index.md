@@ -11,5 +11,5 @@ My expertise lie in the analysis of various biological, acoustic and image signa
 
 ## What I Do?
 <p align="justify">
-I use both signal processing and machine learning techniques along with engineering methods to extract meaningful and insightful information from various types of structured and unstructured time serious data, using data-driven techniques to characterize and differentiate different groups or sub-groups within the data.
+I use both signal processing and machine learning techniques along with engineering methods to extract meaningful and insightful information from various types of structured and unstructured time series data, using data-driven techniques to characterize and differentiate different groups or sub-groups within the data.
 </p>
