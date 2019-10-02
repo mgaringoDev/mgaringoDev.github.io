@@ -93,6 +93,24 @@
             </font>
           </p>
         </div>
+
+        <div style="width: 100%;">
+          <p align="center"; style="margin:0px">
+            <font size="0.01em">Download CV</font>
+          </p>
+        </div>        
+
+        <div style="width: 100%;">
+          <p align="center"; style="margin:0px">
+            <font size="2.1em">              
+              {% for file in site.static_files%}
+                    {% if file.name == "mycv.pdf" %}                        
+                        <a href="{{file.path}}"><i class="material-icons" >cloud_download</i></a>
+                    {% endif %}
+                {% endfor %}            
+            </font>
+          </p>
+        </div>  
         
         
         <!-- ************************ Github stuff ************************-->

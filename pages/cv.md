@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: withCVDownloadIcon
 title: Curriculum Vitae
 category: SidePanel
 ---
@@ -96,14 +96,14 @@ Past Employment
     </p>
 
 2013-2014
-:   **TEACHER ASSISTANT** 
+:   **Graduate Assistant** 
 :   **_Introduction to Biomedical Signal Processing_**
     <p align="justify">
     Developed lessons, tests, and quizzes for the tutorials. Implemented lab work which dealt with physiological data such as ECG, EEG and EMG. Taught class about EEG source localization and its benefits to brain computer interface using both sourced and non-sorced localized data.
     </p>
 
 2011-2013
-:   **INSTRUCTOR** 
+:   **Instructor** 
 :   **_Real Programming For Kids_**
     <p align="justify">
     Taught children ages 7-15 about the fundamentals and good programming practices of computer
@@ -113,7 +113,7 @@ Past Employment
     </p>
 
 2011-2013
-:   **RESEARCH ASSISTANT** 
+:   **Research Assistant** 
 :   **_Colours Without Borders_**
     <p align="justify">
     Used C to acquire data from a device called the i1 pro to acquire colour information of a given colour
@@ -125,7 +125,7 @@ Past Employment
     </p>
 
 2010-2011
-:   **RESEARCH ASSISTANT** 
+:   **Research Assistant** 
 :   **_Signal Analysis Research Group_**
     <p align="justify">
     Used MATLAB to analyze spectrum and power densities of various EEG signals. Researched and developed
@@ -149,7 +149,7 @@ General Business Skills
 :   <p align="justify">Excellent verbal and written skills. Self-motivated and punctual. Good presentation skills. Works well in a team. Fast learner and quick problem solver with high attention to detail. </p>   
 
 Others  
-:   Can write well organized and structured reports and memos
+:   Can write well organized and structured reports and memos.
 <br/>
 
  
@@ -172,6 +172,5 @@ algorithms and ways to make them more efficient.</p>
 Languages
 ============
 **Fluent:** English
-
 
 **Native Speaker:** Tagalog and Ilocano
