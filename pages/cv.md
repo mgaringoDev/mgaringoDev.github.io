@@ -1,7 +1,9 @@
 ---
-layout: withCVDownloadIcon
+layout: withCVDownloadIconPDFViewer
 title: Curriculum Vitae
 category: SidePanel
+
+pdfFile: https://mgaringodev.github.io/assets/documents/mycv.pdf
 ---
 
 Education
