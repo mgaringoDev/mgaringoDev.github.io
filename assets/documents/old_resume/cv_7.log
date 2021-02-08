@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.14)  7 OCT 2019 12:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.14)  8 FEB 2021 10:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -711,32 +711,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
  []
 
 ) (./content/previousEmployment.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--4
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 6--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
  []
 
@@ -744,34 +729,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--8
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pictures/myQR
 .png>]
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
 
  []
 
-) (./content/education.tex) (./content/masters.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+) (./content/education.tex) (./content/masters.tex [2]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 3.
 )
-(./content/certifications.tex) (./content/awards.tex) (./content/skills.tex
-[2]) (./content/publication.tex) (./content/interests.tex)
+(./content/certifications.tex) (./content/awards.tex) (./content/skills.tex)
+(./content/publication.tex) [3] (./content/interests.tex)
 (./content/languages.tex) (./content/references.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
- [3]
+ [4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
  (./cv_7.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `cv_7.out' has not changed.
-(rerunfilecheck)             Checksum: 124E4F9072C1974167B6C06B93AF7E83;1409.
+(rerunfilecheck)             Checksum: 4AF56E7BF08F240C1A7D8DE8EFEC2051;1414.
  ) 
 Here is how much of TeX's memory you used:
- 22175 strings out of 492609
- 377669 string characters out of 6132818
- 472336 words of memory out of 5000000
- 25809 multiletter control sequences out of 15000+600000
- 600116 words of font info for 98 fonts, out of 8000000 for 9000
+ 22169 strings out of 492609
+ 377611 string characters out of 6132818
+ 473341 words of memory out of 5000000
+ 25810 multiletter control sequences out of 15000+600000
+ 599712 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,67p,1128b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,13n,67p,1069b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/tex
 mf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2019/texmf-dist/fonts/typ
 e1/public/lm/lmss10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss1
@@ -780,10 +790,10 @@ e1/public/lm/lmss10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss1
 fonts/type1/public/lm/lmsso10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publi
 c/lm/lmsso17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvos
 ym.pfb>
-Output written on cv_7.pdf (3 pages, 246428 bytes).
+Output written on cv_7.pdf (4 pages, 249070 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
  21598 words of extra memory for PDF output out of 24883 (max. 10000000)
 
