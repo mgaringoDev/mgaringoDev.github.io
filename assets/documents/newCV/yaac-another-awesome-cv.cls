@@ -170,6 +170,7 @@
 \newcommand{\locationSymbol}{\faMapMarker}
 \newcommand{\infoSymbol}{\faInfo}
 \newcommand{\linkedinSymbol}{\faLinkedin}
+\newcommand{\researchGateSymbol}{\faUserMd}
 \newcommand{\viadeoSymbol}{\faViadeo}
 \newcommand{\mobileSymbol}{\faMobilePhone}
 \newcommand{\githubSymbol}{\faGithub}
@@ -234,6 +235,10 @@
 % Render author's github (optional)
 % Usage: \github{<github-nick>}
 \newcommand*{\github}[1]{\sociallink{\githubSymbol}{https://www.github.com/#1}{github.com/#1}}           % Github icon + URL
+
+% Render author's github (optional)
+% Usage: \github{<github-nick>}
+\newcommand*{\researchGate}[1]{\sociallink{\researchGateSymbol}{https://www.researchgate.net/profile/#1}{researchgate.net/profile}}           % Github icon + URL
 
 % Render author's email (optional)
 % Usage: \email{<email adress>}
