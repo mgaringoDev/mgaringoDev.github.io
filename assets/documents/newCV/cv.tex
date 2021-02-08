@@ -5,7 +5,7 @@
 % https://github.com/darwiin/awesome-neue-latex-cv
 %
 % Author:
-% Christophe Roger (Darwiin)
+% Mario Garingo
 %
 % Template license:
 % CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -13,7 +13,7 @@
 \documentclass[localFont,alternative]{yaac-another-awesome-cv}
 \name{Mario}{Garingo}
 \tagline{BEng. MASc.}
-\photo{2.5cm}{myQR}
+\photo{2.5cm}{img/myQR}
 \socialinfo{
 	\linkedin{mariogaringo}
 	\github{mgaringoDev}\\
@@ -21,7 +21,6 @@
 	\email{mario.garingo@gmail.com}\\
 	\address{55 Alex Campbell Crest. King City Toronto Ontario, L7B0C2}\\
 	\website{https://mgaringodev.github.io/}
-%	\infos{Né le 23 septembre 1982 (35 ans) à Nouméa, Nouvelle-Calédonie}
 }
 
 \begin{document}
@@ -34,19 +33,13 @@
 		{\thepage}
 
 %	\input{section_headline}
-%	\input{section_experience_short}		% Section expérience
-	\input{section_currentEmployment}
-	\input{section_previousEmployment}
-	\input{section_education}				% Section scholarité	
-	\input{section_certifications}				% Section scholarité
-	\input{section_awards}	
-	\input{section_technicalAndPersonSkills}				% Section compétence
-	\input{section_publication}				% Section compétence	
-	
-	\input{section_langues}					% Section langues
-%	\input{section_interets}				% Section intérêts
-%	\input{section_projets}
-	\input{section_references} 				% Section références
-
-
+	\input{sections/section_currentEmployment}
+	\input{sections/section_previousEmployment}
+	\input{sections/section_education}				
+	\input{sections/section_certifications}			
+	\input{sections/section_awards}	
+	\input{sections/section_technicalAndPersonSkills}
+	\input{sections/section_publication}					
+	\input{sections/section_langues}					% Section langues and interests
+	\input{sections/section_references} 				
 \end{document}
