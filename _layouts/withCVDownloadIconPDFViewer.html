@@ -140,7 +140,8 @@
 
       {% if page.pdfFile%}
         <div id="pdf" style="width: 100%;">
-           <h1>PDF</h1>           
+           <h1>PDF</h1>   
+           <p><a href="{{page.pdfFile}}">Full Screen</a></p>        
            <!-- <object data="{{page.pdfFile}}" type="application/pdf"  width="600px" height="750px"> -->
            <object data="{{page.pdfFile}}" type="application/pdf"  width="90%" height="650px"> 
               <embed src="{{page.pdfFile}}" type="application/pdf">                

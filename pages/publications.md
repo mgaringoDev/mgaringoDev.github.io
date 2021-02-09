@@ -29,7 +29,7 @@ category: SidePanel
 - [Diagnosis of Migraine Via Expert System](https://patents.google.com/patent/US20180242919A1/en) <br>
 	Pub Number: US20180242919A1
 
-- **Diagnosis of Pain Via Expert System** <br>
+- [Diagnosis of Pain Via Expert System](https://patents.google.com/patent/WO2020202045A1/en) <br>
 Docket Number: CDC-028592 US PRO
 
 

@@ -336,6 +336,10 @@
   \textbf{#1} &   #2\\ 
 }
 
+\newcommand\myKeywordsentry[2]{
+  \textbf{#1} &   \footnotesize{\foreach \n in {#2}{\cvtag{\n}}}\\ 
+}
+
 % Define a new column type for the scholarship environment
 \newcolumntype{Y}{>{\raggedleft}p{\leftcolumn}}
 
