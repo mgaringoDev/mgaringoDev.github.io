@@ -330,6 +330,13 @@
   \end{tabular}
 }
 
+% Define the 'myPub' environment
+\newenvironment{myPub}{%
+  \begin{longtable}{R{\leftcolumn}|E}
+}{%
+  \end{longtable}
+}
+
 % Render a scholarshipentry in the scolarship environment
 % Usage: \scholarshipentry{<date>}{<description>}
 \newcommand\keywordsentry[2]{

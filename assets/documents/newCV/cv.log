@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2019.8.14)  9 FEB 2021 16:21
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2019.8.14)  10 FEB 2021 11:47
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1376,22 +1376,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35547 strings out of 494291
- 244167,953878 words of node,token memory allocated
- 61385 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 1 dir, 7 glue, 3 kern, 1 penalty, 7996 glyph, 2119 
-attribute, 69 glue_spec, 304 attribute_list, 2 write, 4 pdf_action nodes
-   avail lists: 1:13,2:24690,3:2416,4:136,5:1482,6:139,7:6905,8:20,9:1523,10:10,
+ 35549 strings out of 494291
+ 244164,953878 words of node,token memory allocated
+ 62894 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 dir, 7 glue, 3 kern, 1 penalty, 8197 glyph, 2161 
+attribute, 69 glue_spec, 310 attribute_list, 2 write, 5 pdf_action nodes
+   avail lists: 1:11,2:24642,3:2416,4:136,5:1483,6:138,7:6708,8:23,9:1523,10:10,
 11:811
- 38651 multiletter control sequences out of 65536+600000
+ 38653 multiletter control sequences out of 65536+600000
  68 fonts using 10519299 bytes
  62i,15n,87p,1190b,935s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><.
 /fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-Light.otf>
-Output written on cv.pdf (3 pages, 77227 bytes).
+Output written on cv.pdf (3 pages, 77767 bytes).
 
-PDF statistics: 118 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+PDF statistics: 121 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  16 named destinations out of 1000 (max. 131072)
  96 words of extra memory for PDF output out of 10000 (max. 100000000)
 
