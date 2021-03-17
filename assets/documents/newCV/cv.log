@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2019.8.14)  9 MAR 2021 10:40
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2019.8.14)  10 MAR 2021 18:21
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -51,7 +51,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 Inserting `luaotfload.aux.set_xheight' at position 4 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.159 seconds
+luaotfload | main : initialization completed in 0.161 seconds
 (./yaac-another-awesome-cv.cls
 Document Class: yaac-another-awesome-cv 2018/07/19 v1.9.2 'YAAC: Another Awesome
  CV' Class
@@ -1292,14 +1292,14 @@ Package luatex.def Info: img/myQR.png  used on input line 29.
 
 LaTeX Font Warning: Font shape `TU/SourceSansPro-Light(0)/bx/it' undefined
 (Font)              using `TU/SourceSansPro-Light(0)/bx/n' instead on input line
- 44.
+ 50.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 44.
+(Font)              <8> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 44.
+(Font)              <6> on input line 50.
 
-Overfull \hbox (4.48311pt too wide) in alignment at lines 27--65
+Overfull \hbox (4.48311pt too wide) in alignment at lines 27--71
  [][] 
  []
 
@@ -1308,15 +1308,15 @@ Overfull \hbox (4.48311pt too wide) in alignment at lines 27--65
 Package hyperref Warning: Suppressing link with empty target on input line 57.
 
 
-Overfull \hbox (4.48311pt too wide) in alignment at lines 29--90
+Overfull \hbox (4.48311pt too wide) in alignment at lines 29--89
  [][] 
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 135.
+Package hyperref Warning: Suppressing link with empty target on input line 119.
 
 
-Overfull \hbox (4.48311pt too wide) in alignment at lines 90--152
+Overfull \hbox (4.48311pt too wide) in alignment at lines 89--136
  [][] 
  []
 
@@ -1343,7 +1343,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--11
 
  []
 
-[2]) (./sections/section_technicalAndPersonSkills.tex
+) (./sections/section_technicalAndPersonSkills.tex
 Overfull \hbox (4.08311pt too wide) in paragraph at lines 14--11
 [][]
  []
@@ -1353,7 +1353,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--11
 
  []
 
-) (./sections/section_publication.tex
+[2]) (./sections/section_publication.tex
 Underfull \hbox (badness 1776) in paragraph at lines 28--28
 \TU/SourceSansPro-Light(0)/bx/it/10 Using Elec-troen-ce-pha-lo-gra-phy[]\TU/Sou
 rceSansPro-Light(0)/m/n/10 , Com-pu-ta-tio-nal Science and Com-pu-ta-tio-nal In
@@ -1377,21 +1377,21 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  35549 strings out of 494291
- 244157,953878 words of node,token memory allocated
- 62880 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 1 dir, 7 glue, 3 kern, 1 penalty, 8195 glyph, 2161 
-attribute, 69 glue_spec, 310 attribute_list, 2 write, 5 pdf_action nodes
-   avail lists: 1:12,2:24642,3:2416,4:136,5:1492,6:138,7:6724,8:23,9:1523,10:10,
-11:814
+ 195335,953878 words of node,token memory allocated
+ 61617 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 dir, 7 glue, 3 kern, 1 penalty, 8042 glyph, 2077 
+attribute, 69 glue_spec, 298 attribute_list, 2 write, 5 pdf_action nodes
+   avail lists: 1:8,2:22498,3:2290,4:138,5:1507,6:131,7:6517,8:21,9:1483,10:10,1
+1:840
  38653 multiletter control sequences out of 65536+600000
  68 fonts using 10519299 bytes
  62i,15n,87p,1190b,935s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><.
 /fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-Light.otf>
-Output written on cv.pdf (3 pages, 77765 bytes).
+Output written on cv.pdf (3 pages, 77168 bytes).
 
-PDF statistics: 121 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+PDF statistics: 119 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  16 named destinations out of 1000 (max. 131072)
  96 words of extra memory for PDF output out of 10000 (max. 100000000)
 
